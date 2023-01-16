@@ -1,10 +1,3 @@
-//
-//  ViewController.swift
-//  dice
-//
-//  Created by Vladimir Fibe on 1/16/23.
-//
-
 import UIKit
 
 class ViewController: UIViewController {
